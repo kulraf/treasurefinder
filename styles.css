@@ -1,0 +1,187 @@
+body{
+  font-family: "Poppins", sans-serif;
+}
+
+h1{
+  font-family: "Poppins", sans-serif;
+  font-weight: 900;
+  font-size: 3rem;
+  line-height: 1.5;
+  color: #fff;
+}
+
+#title{
+  background-color: #e7cb73;
+}
+
+/* navbar */
+.navbar{
+    margin-bottom: 4.5rem;
+    padding-left: 0;
+}
+
+.nav-item{
+  padding: 0 18px;
+  font-size: 1.2rem;
+  font-weight: 100;
+}
+
+.navbar-brand{
+  font-family: "Teko", sans-serif;
+  font-size: 2.5rem;
+  font-weight: 700;
+}
+
+/*  */
+#features{
+  padding: 12% 0;
+  text-align: center;
+}
+
+
+.container-fluid{
+  padding: 3% 15%;
+}
+
+/* .feature-icon{
+  color: #EF8172;
+}
+
+.feature-icon:hover{
+  color: #FF4C68;
+} */
+/* Download buttons */
+.btn-download{
+  margin: 5% 3% 5% 0;
+}
+/* Iphone image rotation and size according to screen size */
+/* .title-image{
+  width: 60%;
+  margin: 10px 0 0 25px;
+  transform: rotate(25deg);
+  } */
+
+.pricing-h3{
+  font-family: "Poppins", sans-serif;
+  font-weight: 700;
+  font-size: 1.5rem;
+}
+.features-p{
+  color: #8f8f8f;
+}
+/* testimonials */
+#testimonials{
+  background-color: #e7cb73;
+  padding-bottom: 5%;
+  text-align: center;
+}
+#carouselTestimonials{
+  padding: 0 10% 0 10%;
+}
+
+.gimli-profile-pic{
+  width: 10%;
+  border-radius: 50%;
+}
+
+.zoltan-profile-pic{
+  width: 10%;
+  border-radius: 50%;
+}
+
+.testimonial-text{
+  color: #FFFF;
+  font-family: "Poppins", sans-serif;
+  font-weight: 700;
+  font-size: 3rem;
+  line-height: 1.5;
+}
+
+em{
+  color: #ffff;
+}
+
+/* press section */
+
+/* #press{
+  background-color: #EF8172;
+  padding-bottom: 5%;
+  text-align: center;
+}
+.press-logos{
+  width: 15%;
+  margin: 20px 20px;
+} */
+
+/* pricing section */
+#pricing{
+  text-align: center;
+  margin-top: 5%;
+}
+
+.card-header{
+  background-color: #F7F7F7;
+  padding: 0.75rem 1.25rem;
+}
+
+.card-body{
+  padding: 1.25rem;
+}
+
+.pricing-h2{
+  font-family: "Poppins", sans-serif;
+  font-weight: 700;
+  font-size: 2.5rem;
+}
+
+.btn-pricing{
+  width: 100%;
+  background-color: #68553b;
+  border: 0;
+}
+
+.btn-pricing-1st{
+  width: 100%;
+  color: #68553b;
+  border-color: #68553b;
+}
+
+
+.pricing-table{
+  margin-bottom: 5%;
+}
+
+/* call to action section CTA */
+
+#cta{
+  background-color: #68553b;
+  text-align: center;
+  padding: 10% 0 7% 0;
+  }
+
+.cta-h3{
+  color: #ffff;
+  font-family: "Poppins", sans-serif;
+  font-size: 3.5rem;
+  font-weight: bold;
+  line-height: 1.5;
+}
+.btn-download-cta{
+  margin: 0;
+}
+
+/* footer */
+
+#footer{
+  margin-top: 5%;
+  text-align: center;
+}
+
+.social-icons{
+  color: 007BFF;
+  margin-bottom: 3%;
+}
+
+.little-icon{
+  margin-right: 2%;
+}
